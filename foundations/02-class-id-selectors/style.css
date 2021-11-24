@@ -1,0 +1,20 @@
+/* style css */
+/* ungerade Zahlen */
+.ungerade {
+    background-color: #ffb6c1;
+    font-family: "Expletus Sans", sans-serif;
+}
+/* Schriftgröße 24pc */
+.px {
+    font-size: 24px;
+}
+
+#nummer2 {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#nummer4 {
+    background-color: #90ee90;
+    font-weight: bold;
+}
