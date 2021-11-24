@@ -1,0 +1,19 @@
+/* style.css */
+/* gemeinsame Attribute */
+.black,
+.yellow {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
+
+/* Black-Box only */
+.black {
+    color: white;
+    background-color: #000000;
+}
+
+/* Yellow Box Only */
+.yellow {
+    background-color: hsl(60, 100%, 50%);
+}
